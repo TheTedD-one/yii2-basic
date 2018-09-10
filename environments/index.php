@@ -9,7 +9,6 @@ return [
         ],
         'setExecutable' => [
             'yii',
-            'tests/codeception/bin/yii',
         ],
         'setCookieValidationKey' => [
             'config/web-local.php',

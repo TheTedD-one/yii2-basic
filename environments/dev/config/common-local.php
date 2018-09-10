@@ -3,7 +3,7 @@
 return [
     'components' => [
         'db' => [
-            'dsn' => 'mysql:host=localhost;dbname=seokeys',
+            'dsn' => 'mysql:host=localhost;dbname=db',
             'username' => 'root',
             'password' => '',
         ],
